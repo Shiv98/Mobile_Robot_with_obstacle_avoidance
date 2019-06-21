@@ -25,9 +25,9 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 > Power Bank
 
-> Moter Driving Shield
+> Motor Driving Shield
 
-> L Shape Moter
+> L Shape Motor
 **Softwares Used:**
 
 > MIT App Inventor
