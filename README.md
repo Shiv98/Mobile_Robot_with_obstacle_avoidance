@@ -34,5 +34,5 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 > Arduino IDE
 
-> MobaXtrem(commandline editior
+> MobaXtrem(commandline editior)
 
