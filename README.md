@@ -17,7 +17,7 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 > Node MCU
 
-> Raspberry P
+> Raspberry Pi Zero
 
 > Ultrasonic Sensor
 
@@ -25,9 +25,14 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 > Power Bank
 
+> Moter Driving Shield
+
+> L Shape Moter
 **Softwares Used:**
 
 > MIT App Inventor
 
 > Arduino IDE
+
+> MobaXtrem(commandline editior
 
