@@ -1,6 +1,18 @@
 # Mobile_Robot_with_Obstacle_Avoidance
 A robot that is trained to avoid any obstacle that comes in its way!
 
+**ALL THE PROJECTS ARE JOINT EFFORTS OF:**
+>>Dharmvir Dharmacharya
+
+>>Shivangi Gupta
+
+>>Yashika Mittal
+
+>>Manas Sinha
+
+>>Abhishek Soni
+
+
 **Hardwares Used:**
 
 > Node MCU
