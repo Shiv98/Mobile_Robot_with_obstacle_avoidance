@@ -1,7 +1,7 @@
 # Mobile_Robot_with_Obstacle_Avoidance
 A robot that is trained to avoid any obstacle that comes in its way!
 
-**ALL THE PROJECTS ARE JOINT EFFORTS OF:**
+**THE PROJECT IS A RESULT OF JOINT EFFORTS OF:**
 >>Dharmvir Dharmacharya
 
 >>Shivangi Gupta
