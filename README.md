@@ -37,7 +37,7 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 > MobaXtrem(commandline editior)
 
-# training_data_generation
+# Training_data_generation
 
 We generate traning data, with mentioned codes.
 Working of follownig sensors:
