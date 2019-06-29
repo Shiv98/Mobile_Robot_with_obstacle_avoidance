@@ -3,13 +3,9 @@ A robot that is trained to avoid any obstacle that comes in its way!
 
 **THE PROJECT IS A RESULT OF JOINT EFFORTS OF:**
 - [Dharmvir Dharmacharya](https://github.com/DDharma)
-
 - [Shivangi Gupta](https://github.com/Shiv98)
-
 - [Yashika Mittal](https://github.com/yashika0998)
-
 - [Manas Sinha](https://github.com/manassinha07)
-
 - [Abhishek Soni](https://github.com/rockstarabhii)
 
 
@@ -40,6 +36,6 @@ Working of follownig sensors:
   
 # Code for node mcu
 
-> Using the train data we generate the weights and here with the help of updated weights we test the mobile robot for the obstacle 
-  avoidance.
+Using the train data we generate the weights and here with the help of updated weights we test the mobile robot for the obstacle 
+avoidance.
 
