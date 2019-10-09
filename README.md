@@ -20,6 +20,7 @@ A robot that is trained to avoid any obstacle that comes in its way!
 - LShape Motor
 - Bread Board
 - Chassis
+- Wheels
 
 **Softwares Used:**
 
